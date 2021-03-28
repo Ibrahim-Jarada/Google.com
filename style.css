@@ -72,3 +72,8 @@ a{
 body{
     display: flex;
 }
+#sign-in{
+    background-color:#1a73e8;
+    color: white;
+    width: 100px;
+}
